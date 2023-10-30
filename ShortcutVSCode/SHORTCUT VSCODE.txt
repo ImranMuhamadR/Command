@@ -1,0 +1,5 @@
+SHORTCUT VSCODE
+
+ctrl+shift+down = copy paste dengan cepat
+ctrl+shift+l = menyelesksi semua code yang sama sekaligus
+ctrl+d = menyeleksi teks/code yg sama tapi sesuai keinginan kita sendiri
