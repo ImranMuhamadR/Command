@@ -1,8 +1,8 @@
-Vim adalah teks editor berbasis terminal yang kuat dan sangat konfigurabel. Berikut adalah beberapa perintah dasar yang sering digunakan dalam Vim:
+Vim adalah singkatan dari Vi iMproved. Vim adalah teks editor berbasis terminal yang kuat dan sangat konfigurabel. Berikut adalah beberapa perintah dasar yang sering digunakan dalam Vim:
+
 
 1. Mode Normal (Normal Mode):
 
-i: Masuk ke Mode Insert (untuk menulis atau mengedit teks).
 x: Menghapus karakter di bawah kursor.
 dd: Menghapus baris saat ini.
 yy: Menyalin baris saat ini.
@@ -12,6 +12,7 @@ Ctrl + r: Redo (mengulangi perubahan yang dibatalkan).
 
 2. Mode Insert (Insert Mode):
 
+i: Masuk ke Mode Insert (untuk menulis atau mengedit teks).
 Esc: Keluar dari Mode Insert dan kembali ke Mode Normal.
 :w: Menyimpan perubahan ke dalam file (write).
 :q: Keluar dari Vim (quit).
@@ -37,7 +38,7 @@ gg: Menggerakkan kursor ke awal file.
 n: Melompat ke kemunculan berikutnya dari kata_kunci.
 N: Melompat ke kemunculan sebelumnya dari kata_kunci.
 
-6. Editing (Pengeditan):
+6. Pengeditan (Editing):
 
 :s/kata_lama/kata_baru/g: Mengganti semua kemunculan kata_lama dengan kata_baru dalam baris saat ini.
 :s/kata_lama/kata_baru/gc: Sama seperti di atas, tetapi dengan konfirmasi.

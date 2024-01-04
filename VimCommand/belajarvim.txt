@@ -1,5 +1,6 @@
 1. Hello saya sedang belajar vim
-1. Hello saya sedang belajar vim
-2. hello how are you
-2. i'm fine
+2. Disini saya akan mencoba menggunakan vim dengan mode normal mode.
+saya disi akan mencoba men
+
+
 
