@@ -1,2 +1,0 @@
-hello di tutorial kali ini saya akan menjelaskan bagaimana cara menggunakan perintah-perintah pada vim
-

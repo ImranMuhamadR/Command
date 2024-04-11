@@ -1,6 +1,0 @@
-1. Hello saya sedang belajar vim
-2. Disini saya akan mencoba menggunakan vim dengan mode normal mode.
-saya disi akan mencoba men
-
-
-
